@@ -1,5 +1,5 @@
 # User Credentials
 host = 'localhost'
 user = 'root'
-password = 'jana@2003'
+password = 'your_password'
 database = 'library_management'
